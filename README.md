@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Hi
 
-You can use the [editor on GitHub](https://github.com/budigod/budigod.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Vivaan Eleti, a former New Jerseyan*, a washed-up YouTuber, and a pianist**. I know almost nothing about Git, much less other coding languages, but I've been interested in technology ever since I was a little kid.
+Fifth grade was when I really started doing stuff. And by "stuff", I mean making whatever the hell I want and uploading it to YouTube.
+According to my "friends" during March and a little bit of April 2022, I was a stupid creep with absolutely no social life and who got rejected by his crush twice. That last part is true.
+Because of my so-called friends, I sometimes thought about calling 911, or even worse--the National Suicide Prevention Lifeline, because that exists in America.
+Luckily, I got over it, and here I am, writing a README file for my GitHub Page. It's funny how time flies, but can't run or walk.
+I do still need to consistently upload videos on my YouTube channel, however, or else I'm never looking at a screen again.
+That's about it. I'm just gonna give you some links and projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Links
 
-### Markdown
+Damn, you read that entire section? Good for you! Here's some cool links in return.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Unblockers and proxies for school](https://docs.google.com/document/d/16hGJnVnfpujk3DKqFyUDjB6XBZ9CngJIb4Jn9AArokM/edit)
+[My YouTube channel](https://youtube.com/budigod)
+[Other socials](https://budigod.carrd.co)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Notes from the "Hi" section:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/budigod/budigod.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*I live in North Carolina now.
+**really good at the piano.
